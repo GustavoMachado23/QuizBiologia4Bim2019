@@ -1,0 +1,217 @@
+{"response_code":0,"results": [
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"Qual a equação que representa corretamente o processo de respiração celular com a presença do oxigênio?",
+        "correct_answer":"Glicose + oxigênio > gás carbônico + água + energia",
+        "incorrect_answers":[
+            "Glicose + gás carbônico > oxigênio + gás metano",
+			"Glicose + gás carbônico > oxigênio + água + energia",
+			"Oxigênio > gás carbônico + água + energia"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"Qual o órgão comum ao sistema digestório e respiratório?",
+        "correct_answer":"Faringe",
+        "incorrect_answers":[
+            "Laringe",
+            "Epiglote",
+            "Traqueia"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"Qual o nome do processo de trocas gasosas nos alvéolos?",
+        "correct_answer":"Hematose",
+        "incorrect_answers":[
+            "Homeostase",
+            "Difusão",
+            "Osmose",
+			"Hemólise"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"De que maneira ocorrem as trocas gasosas nos alvéolos?",
+        "correct_answer":"Difusão",
+        "incorrect_answers":[
+            "Osmose",
+            "Pinocitose",
+            "Transporte ativo"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"O Nitrogênio está em todo lugar! Na verdade, N2(g) corresponde a, aproximadamente, 78% por volume, da atmosfera da Terra, superando o O2, que normalmente pensamos como sendo o ar. Deste modo, a maior parte do ar que respiramos contém N2. A sua função no processo de respiração pulmonar é:",
+        "correct_answer":"N.d.a.",
+        "incorrect_answers":[
+            "Ser consumido no processo de respiração celular",
+            "Ser um componente do muco alveolar",
+            "Ser um componente do muco nasal",
+			"Estimular a ventilação pulmonar"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"A circulação pulmonar é também chamada de ...., tendo seu início no .... e término no ...., passando pelos .... e sua função é conduzir o sangue .... aos (às) .... para ser oxigenado.",
+        "correct_answer":"Pequena circulação/ventrículo direito/átrio esquerdo/pulmões/venoso/pulmões",
+        "incorrect_answers":[
+            "Pequena circulação/ventrículo esquerdo/átrio direito/pulmões/venoso/pulmões",
+            "Grande circulação/ventrículo direito/átrio esquerdo/pulmões/venoso/pulmões",
+            "Pequena circulação/ventrículo direito/átrio esquerdo/tecidos e órgãos/venoso/pulmões",
+			"Pequena circulação/ventrículo direito/átrio esquerdo/pulmões/arterial/pulmões"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"Se pudéssemos marcar uma única hemácia do sangue de uma pessoa, quando de sua passagem por um capilar sangüíneo do pé, e seguir seu trajeto pelo corpo a partir dali, detectaríamos sua passagem, sucessivamente, pelo interior de:",
+        "correct_answer":"veias > coração > artérias > pulmão > veias > coração > artérias > capilares",
+        "incorrect_answers":[
+            "artérias > veias > coração > artérias > pulmão > veias > capilares",
+			"artérias > coração > veias > pulmão > veias > coração > artérias > capilares",
+			"veias > artérias > coração > veias > pulmão > artérias > capilares",
+			"veias > pulmão > artérias >  coração > veias > pulmão > artérias > capilares"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"Uma hemácia que esteja no ventrículo direito tem ___ I ___ e seguirá para ___ II ___ . Nesse local ocorrerá ___ III ___ tornando o sangue ___ IV ___ . Assinale a alternativa que preenche, correta e respectivamente, os espaços I, II, III e IV.",
+        "correct_answer":"pouco O2; os pulmões; hematose; arterial",
+        "incorrect_answers":[
+            "muito CO2; o corpo; hematose; venoso",
+            "muito O2; o corpo; filtração; venoso",
+            "pouco CO2; os pulmões; reabsorção; arterial",
+			"pouco O2; o corpo; filtração; venoso"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"Qual a estrutura anexa comum ao sistema respiratório e nervoso?",
+        "correct_answer":"Bulbo",
+        "incorrect_answers":[
+            "Hipófise",
+            "Bainha de Mielina",
+            "Diencéfalo",
+			"Cérebro"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"Considere a seguinte frase sobre respiração: O ar entre nos pulmões quando ocorre (I) do diafragma, (II) dos músculos intercostais e consequente (III) da pressão (IV). Para completá-la corretamente, (I), (II), (III) e (IV) devem ser substituídos, respectivamente, por:",
+        "correct_answer":"Contração, contração, diminuição, interna",
+        "incorrect_answers":[
+            "Contração, contração, aumento, interna",
+            "Contração, relaxamento, aumento, externa",
+            "Relaxamento, contração, diminuição, externa",
+			"Relaxamento, relaxamento, aumento, interna"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"Quais características permitem que os mamíferos tenham circulação completa, ou seja, sem mistura de sangue oxigenado e rico em gás carbônico?",
+        "correct_answer":"O coração possui uma completa separação entre os ventrículos e apenas uma aorta, o que impede a mistura do sangue",
+        "incorrect_answers":[
+            "Coração com três cavidades bem delimitadas e a presença de uma única aorta que não permitem a mistura do sangue",
+            "Os ventrículos são separados parcialmente pelo septo de Sabatier e possuem duas aortas que impedem a mistura do sangue rico em gás carbônico",
+            "O sangue passa apenas uma vez pelo coração, impedindo assim que o sangue se misture"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"Sabemos que o coração humano apresenta quatro câmaras: dois átrios e dois ventrículos. O fluxo sanguíneo dos átrios para os ventrículos é controlado através das chamadas valvas atrioventriculares. O átrio esquerdo comunica-se com o ventrículo esquerdo pela valva atrioventricular esquerda, também conhecida como valva:",
+        "correct_answer":"Bicúspide",
+        "incorrect_answers":[
+            "Cardia",
+            "Tricúspide",
+            "Semilunar",
+			"Pré-capilar"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"A função do nódulo sinoatrial no coração humano é:",
+        "correct_answer":"Funcionar como marca-passo, controlando a ritmicidade cardíaca",
+        "incorrect_answers":[
+            "Regular a circulação coronariana",
+            "Controlar a abertura e o fechamento da válvula tricúspide",
+            "Controlar a abertura e o fechamento da válvula mitral",
+			"Controlar a pressão diastólica da aorta"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"Num infarto, células do músculo cardíaco morrem. Em casos mais graves, há necessidade da colocação de uma ponte de safena. Esse procedimento consiste:",
+        "correct_answer":"na colocação de um fragmento de um vaso retirado da perna no coração para que o sangue volte a circular",
+        "incorrect_answers":[
+            "na substituição de parte da arteira aorta, diminuindo a pressão com que o sangue sai do coração",
+            "no transplante de células retiradas do músculo da perna, que substituirão a parte morta do músculo cardíaco",
+            "na implantação de um dispositivo que aumente o diâmetro dos vasos que trazem sangue ao coração",
+			"na colocação de uma válvula artificial para impedir o refluxo de sangue do ventrículo para o átrio"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"O som característico dos batimentos cardíacos, é mais comumente representados pelo tum-tum. O primeiro tum representa a/o (I) da/das (II) . O segundo tum, por sua vez, a/o (III) da/das (IV).",
+        "correct_answer":"(I) fechamento, (II) valvas mitral e tricúspide, (III) fechamento, (IV) valvas aórtica e pulmonar",
+        "incorrect_answers":[
+            "(I) fechamento, (II) valva mitral, (III) abertura, (IV) valva aórtica",
+            "(I) abertura, (II) valvas mitral e tricúspide, (III) abertura, (IV) valvas aórtica e pulmonar",
+            "(I) abertura, (II) valva aórtica, (III) abertura, (IV) valva tricúspide",
+			"(I) abertura, (II) valva pulmonar, (III) abertura, (IV) valva tricúspide"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"Dos sistemas respiratórios abaixo descritos, qual é o único que não depende do sistema circulatório para fazer o transporte de gases?",
+        "correct_answer":"O sistema traqueal de um inseto",
+        "incorrect_answers":[
+            "As brânquias de um carangueijo",
+            "Os pulmões de um réptil",
+            "A pele de uma minhoca",
+			"As brânquias de um peixe"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"Sobre as artérias, marque a alternativa correta:",
+        "correct_answer":"Atuam transportando sangue do coração para outras partes do corpo",
+        "incorrect_answers":[
+            "Atuam transportando exclusivamente sangue oxigenado",
+            "Atuam transportando exclusivamente sangue rico em gás carbônico",
+            "Atuam transportando sangue de diversas partes do corpo em direção ao coração"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"Sabemos que o sangue é composto por uma porção líquida, o plasma, e algumas células e fragmentos celulares. Esse sangue circula sempre dentro dos vasos sanguíneos, caracterizando um sistema circulatório fechado. A respeito dos vasos sanguíneos, marque alternativa INCORRETA:",
+        "correct_answer":"As artérias apresentam parede relativamente fina quando comparadas às das veias",
+        "incorrect_answers":[
+            "As artérias levam o sangue do coração para outras partes do corpo",
+            "Os vasos sanguíneos de diâmetro microscópico, são chamados de capilares sanguíneos",
+            "As veias são vasos sanguíneos responsáveis por levar o sangue de diversas partes do corpo para o coração",
+			"As paredes das artérias e veias são constituídas por três camadas de tecidos, denominadas túnicas"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"O tecido sanguíneo é formado pelo plasma, substância formada principalmente por água e proteínas, e três tipos de elementos figurados. Marque a alternativa em que estão indicados esses elementos:",
+        "correct_answer":"Trombócitos, hemácias, leucócitos",
+        "incorrect_answers":[
+            "Hemácias, neurônios, hormônios",
+            "Trombócitos, anticorpos, neurônios",
+            "Miócitos, fibrócitos, hemácias",
+			"Fibrócitos, hemácias, leucócitos"]
+    },
+    {"category":"Biologia",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"A Circulação sanguínea que se estabelece entre o CORAÇÃO > PULMÕES > CORAÇÃO, mais precisamente entre o ventrículo direito e o átrio esquerdo, tem a função de:",
+        "correct_answer":"Promover a oxigenação do sangue, direcionando-o para todo o corpo",
+        "incorrect_answers":[
+            "Promover a condução apenas do sangue arterial",
+            "Promover a oxigenação dos pulmões e do próprio coração",
+            "Promover a oxigenação dos tecidos intermitentes",
+			"Promover a condução apenas do sangue venoso"]
+    }
+]}
